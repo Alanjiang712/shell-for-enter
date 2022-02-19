@@ -9,6 +9,7 @@
 </template>
 
 <script>
+//修改测试
 import term from "./components/term.vue";
 import addBtn from "./components/addBtn.vue";
 
